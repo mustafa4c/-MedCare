@@ -5,5 +5,5 @@
 ![clients review](https://github.com/mustafa4c/-MedCare/assets/88936207/8daabc47-a0a3-460f-9240-3136b2d4b220)
 ![doctors](https://github.com/mustafa4c/-MedCare/assets/88936207/25d6527b-dff3-4625-b957-f46bf6fc206d)
 ![feat](https://github.com/mustafa4c/-MedCare/assets/88936207/c5551a1c-869b-45e7-940e-ccd3473e018a)
-![footer](https://github.com/mustafa4c/-MedCare/assets/88936207/a7761167-796b-4421-97e1-a0619d60d811)
 ![services](https://github.com/mustafa4c/-MedCare/assets/88936207/fd87b8e8-cd7f-42fc-815a-e176e477bd4b)
+![footer](https://github.com/mustafa4c/-MedCare/assets/88936207/a7761167-796b-4421-97e1-a0619d60d811)
